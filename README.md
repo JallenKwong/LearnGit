@@ -351,7 +351,7 @@ git push origin :refs/tags/(tagname)<br/>
 </tr>
 
 <tr>
-<td><a href='#搭建Git服务器'>搭建Git服务器</a></td>
+<td><a href='#搭建git服务器'>搭建Git服务器</a></td>
 <td></td>
 <td></td>
 </tr>
