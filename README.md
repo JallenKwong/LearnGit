@@ -2,6 +2,8 @@
 
 ![](image/git.jpg)
 
+![](image/gitcheatsheet.png)
+
 # 索引 #
 
 <table>
